@@ -1,0 +1,16 @@
+// Change these values according to your preferences
+{
+  "token": "",
+  "serversupportparent": "",
+  "serversupportparent2": "",
+  "serverLogsID": "",
+  "serverLogsTOKEN": "",
+  "serverDmsID": "",
+  "serverDmsTOKEN": "",
+  "lockChannels": [
+ 
+  ],
+  "execptChannels": [
+
+  ]
+}
